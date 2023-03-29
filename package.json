@@ -1,5 +1,5 @@
 {
-  "name": "taro",
+  "name": "@tarojs/taro",
   "version": "3.6.2",
   "description": "开放式跨端跨框架开发解决方案",
   "homepage": "https://github.com/NervJS/taro#readme",
